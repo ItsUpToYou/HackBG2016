@@ -25,14 +25,15 @@ namespace _1_Heads_and_Tails
             string elem = String.Empty;
             int maxElement = 1;
 
-
+            // loop the List characters
             for (int i = 0; i < inputs.Count - 1; i++)
             {
-                // H H H T T T
+                // count neighboring characters
                 if (inputs[i] == inputs[i + 1])
                 {
                     counter++;
 
+                    // save the longest line of one character.
                     if (counter > maxElement)
                     {
                         maxElement = counter;
@@ -44,7 +45,7 @@ namespace _1_Heads_and_Tails
                     counter = 1;
                 }
             }
-
+            // Show DRAW if two characters are equal.
             if (counter == maxElement)
             {
                 Console.WriteLine("Draw");
