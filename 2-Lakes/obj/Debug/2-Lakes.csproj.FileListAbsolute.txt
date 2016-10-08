@@ -1,0 +1,6 @@
+C:\Users\SystemeX\Documents\Visual Studio 2015\Projects\HackBG2016\2-Lakes\bin\Debug\2-Lakes.exe.config
+C:\Users\SystemeX\Documents\Visual Studio 2015\Projects\HackBG2016\2-Lakes\bin\Debug\2-Lakes.exe
+C:\Users\SystemeX\Documents\Visual Studio 2015\Projects\HackBG2016\2-Lakes\bin\Debug\2-Lakes.pdb
+C:\Users\SystemeX\Documents\Visual Studio 2015\Projects\HackBG2016\2-Lakes\obj\Debug\2-Lakes.csprojResolveAssemblyReference.cache
+C:\Users\SystemeX\Documents\Visual Studio 2015\Projects\HackBG2016\2-Lakes\obj\Debug\2-Lakes.exe
+C:\Users\SystemeX\Documents\Visual Studio 2015\Projects\HackBG2016\2-Lakes\obj\Debug\2-Lakes.pdb

@@ -1,0 +1,6 @@
+c:\users\systemex\documents\visual studio 2015\Projects\HackBG2016\1-Heads-and-Tails\bin\Debug\1-Heads-and-Tails.exe.config
+c:\users\systemex\documents\visual studio 2015\Projects\HackBG2016\1-Heads-and-Tails\bin\Debug\1-Heads-and-Tails.exe
+c:\users\systemex\documents\visual studio 2015\Projects\HackBG2016\1-Heads-and-Tails\bin\Debug\1-Heads-and-Tails.pdb
+c:\users\systemex\documents\visual studio 2015\Projects\HackBG2016\1-Heads-and-Tails\obj\Debug\1-Heads-and-Tails.csprojResolveAssemblyReference.cache
+c:\users\systemex\documents\visual studio 2015\Projects\HackBG2016\1-Heads-and-Tails\obj\Debug\1-Heads-and-Tails.exe
+c:\users\systemex\documents\visual studio 2015\Projects\HackBG2016\1-Heads-and-Tails\obj\Debug\1-Heads-and-Tails.pdb
